@@ -1,0 +1,11 @@
+.code-editor {
+    width: 100%;
+    max-width: 800px;
+    margin: 20px 0;
+  }
+  
+  .code-editor__editor {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  

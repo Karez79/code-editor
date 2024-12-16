@@ -1,0 +1,24 @@
+.language-selector {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .language-selector__label {
+    font-size: 1rem;
+    margin-bottom: 5px;
+  }
+  
+  .language-selector__dropdown {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 200px;
+  }
+  
+  .language-selector__option {
+    font-size: 1rem;
+  }
+  
